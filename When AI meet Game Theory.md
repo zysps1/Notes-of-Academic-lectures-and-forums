@@ -4,6 +4,7 @@
 
 * IEEE 全球十大AI影响力科学家
 * 新加坡南洋理工大学副教授
+* [Bo An's page](https://www.ntu.edu.sg/home/boan/publications.html)
 
 #### Section 1-Outline
 
