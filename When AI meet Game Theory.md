@@ -1,12 +1,13 @@
-## <center>When AI meet Game Theory </center>
+# <center>When AI meet Game Theory </center>
 
+### Auther
 <center> By Bo An from NTU (boan@ntu.edu.sg)
 
 * IEEE 全球十大AI影响力科学家
 * 新加坡南洋理工大学副教授
 * [Bo An's page](https://www.ntu.edu.sg/home/boan/publications.html)
 
-#### Section 1-Outline
+### Section 1-Outline
 
 GT: analyzes multi-agent interactions
 
@@ -26,7 +27,7 @@ The rest of the talk: Bo An's recent work along GT+AI
 >
 > Pure Game theory or not pure?
 
-#### Section 2-Introduction and examples
+### Section 2-Introduction and examples
 
 Notice:
 
@@ -60,7 +61,7 @@ Fields:
 >
 > The enemies may take adversarial actions or spread mendacious information to maze the decision-making agent. 
 
-#### Section 3-Recent work
+### Section 3-Recent work
 
 * Real time schedule police from several stations to catch bad guys.
 * Combating fraud in E-commerce via Deep RL
@@ -72,7 +73,7 @@ Fields:
 * Extensive corporation using DRL
 * Recommend algorithm to ALL deep RL
 
-#### Section 4-What's next
+### Section 4-What's next
 
 * Stochastic, open environment
 * multiple players
