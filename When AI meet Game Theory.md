@@ -1,4 +1,4 @@
-### <center>When AI meet Game Theory
+## <center>When AI meet Game Theory </center>
 
 <center> By Bo An from NTU (boan@ntu.edu.sg)
 
